@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8188d4b5.css",
+    "main.js": "/static/js/main.ae2e832c.js",
+    "static/media/shailez.jpg": "/static/media/shailez.817a551bc066eddc9c2b.jpg",
+    "static/media/hotstar.png": "/static/media/hotstar.fb683ef574ef7fdf9a47.png",
+    "static/media/skinstorePic.png": "/static/media/skinstorePic.bd13d471399e69822a46.png",
+    "static/media/expedia.png": "/static/media/expedia.215aa31b00047c86ccfa.png",
+    "static/media/Shailesh-Budakoti-Resume.pdf": "/static/media/Shailesh-Budakoti-Resume.f4b1f06ffcb261e231dc.pdf",
+    "static/media/netlify.png": "/static/media/netlify.ccce58847f997c473352.png",
+    "static/media/cyclicL.png": "/static/media/cyclicL.2742334406359905d427.png",
+    "static/media/vsCodeL.png": "/static/media/vsCodeL.aa4ed1807c4c1c00f5cb.png",
+    "static/media/renderL.png": "/static/media/renderL.1d78c0917e3231978813.png",
+    "static/media/tic-tac-toe.png.webp": "/static/media/tic-tac-toe.png.a1a269f9279335c742b7.webp",
+    "index.html": "/index.html",
+    "main.8188d4b5.css.map": "/static/css/main.8188d4b5.css.map",
+    "main.ae2e832c.js.map": "/static/js/main.ae2e832c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8188d4b5.css",
+    "static/js/main.ae2e832c.js"
+  ]
+}
